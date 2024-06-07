@@ -20,32 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Utilizando GIMINI no meu trabalho
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizo a facilitadora Gimini no meu dia a dia academico de forma que me dê dados e informações mais rápidamente, utilizando de manipulação para que a mesma dê as respostas que eu desejo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GIMINI
+Word
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Peguei o util ao agradável para conseguir criar soluções no meu dia a dia me baseando na maior dor, o tempo, focando principalemnte nele resolvi por no vocabulário com a IA coisas que a fizesse me dar as respostas que eu queria, tendo assim mais tempo para desenvolver minha pesquisa ou até ir em busca de outros materiais.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com menos tempo fuçando sites consigo focar em um trabalho ao qual não me sinto tão cansativa em criar, me atentando principalemente em me policiar quando estiver querendo "roubar" uma resposta sem ao menos ter entendido o conceito.
+O tempo de pesquisa diminuiu e consigo direcionar melhor meus assuntos e tempo de criação no dia a dia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Vejo a importancia em que a IA nos ajuda, servindo como uma facilitadora no trabalho, faculdade, etc mantendo principalmente cuidado com a forma que estudo as informações passadas e como as coloco no meu ambiente. Não adianta ter a resposta na ponta dos dedos se ao menos sei o que significa ou como faze-la sem o uso da IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
